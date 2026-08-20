@@ -1,8 +1,9 @@
 ### Bruno Pamplona
 
-Marketing Science & Growth Specialist working on the measurement stack
-behind streaming and subscription businesses — incrementality, media mix
-modeling, multi-touch attribution, churn, and experimentation design.
+Lead Marketing & Product Scientist working on the measurement stack
+behind eCommerce, marketplace and video streaming/subscription businesses — 
+incrementality, media mix modeling, multi-touch attribution, churn, 
+and experimentation design.
 
 Engineering background (Java/Spring, Node, full‑stack) applied to building
 reliable, reproducible analytics pipelines. I care about *causal* answers,
