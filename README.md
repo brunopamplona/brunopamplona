@@ -1,6 +1,6 @@
 ### Bruno Pamplona
 
-**Decision & Growth Scientist** — Causal Inference · LTV/Value-Based Bidding · Experimentation · MMM
+**Decision & Growth Scientist Leader** — Causal Inference · LTV/Value-Based Bidding · Experimentation · MMM
 
 Senior Manager at Accenture, leading growth science applied to subscription businesses and e-commerce. I build measurement systems that answer *causal* questions — not just dashboards. 7+ years closing the loop between media spend, product behavior, and revenue.
 
